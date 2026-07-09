@@ -1,0 +1,8 @@
+{
+  "category": "Heuristic-Routing-Rules",
+  "rules": {
+    "sentiment_check": "ai",
+    "data_categorization": "heuristic",
+    "summarization": "ai"
+  }
+}
